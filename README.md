@@ -33,4 +33,4 @@ Python, FastAPI, scikit-learn, Docker, Git, GitHub, Render
 ```
 
 Note: This is a sample prediction, not a live weather forecast.
-
+CI/CD test: checking automated tests and deployment.
