@@ -1,0 +1,8 @@
+services:
+  app:
+    # Build the image from the Dockerfile
+    build: .
+
+    # Publish the API on port 8000
+    ports:
+      - "8000:8000"
